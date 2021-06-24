@@ -34,7 +34,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
 </p>
 
-### 🌼 Github Stats  
+### 🌼 Github Status  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=eddington524&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
